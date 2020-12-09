@@ -1,7 +1,7 @@
 [![Banner](https://github.com/german-alvarez-dev/german-alvarez-dev/blob/main/assets/german-alvarez.svg)](https://germanalvarez.net)
 ![Linew](https://github.com/german-alvarez-dev/german-alvarez-dev/blob/main/assets/line.svg)
 <p align='center'>
-I'm Jhey.
+¡Hola! Soy Germán, y hago cosas digitales.
 </p>
 <!--
 **german-alvarez-dev/german-alvarez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
